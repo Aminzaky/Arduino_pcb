@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:00:39 PM On 10/14/2020
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Arduino_pcb_PCB.PcbDoc]
+   Generated File[Pick Place for Arduino_pcb_PCB.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:00:43 PM On 10/14/2020

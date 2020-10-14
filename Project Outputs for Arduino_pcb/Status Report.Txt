@@ -1,0 +1,26 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:14:28 PM On 10/14/2020
+
+Output: Arduino_pcb_gerber_files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Arduino_pcb_PCB.PcbDoc]
+   Generated File[Arduino_pcb_PCB.GTO]
+   Generated File[Arduino_pcb_PCB.GTP]
+   Generated File[Arduino_pcb_PCB.GTS]
+   Generated File[Arduino_pcb_PCB.GTL]
+   Generated File[Arduino_pcb_PCB.GBL]
+   Generated File[Arduino_pcb_PCB.GBS]
+   Generated File[Arduino_pcb_PCB.GBP]
+   Generated File[Arduino_pcb_PCB.GBO]
+   Generated File[Arduino_pcb_PCB.GM28]
+   Generated File[Arduino_pcb_PCB.GM29]
+   Generated File[Arduino_pcb_PCB.RUL]
+   Generated File[Arduino_pcb_PCB.EXTREP]
+   Generated File[Arduino_pcb_PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 8:14:30 PM On 10/14/2020

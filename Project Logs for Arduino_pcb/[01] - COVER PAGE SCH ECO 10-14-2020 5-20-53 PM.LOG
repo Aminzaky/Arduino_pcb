@@ -1,0 +1,4 @@
+Change Net Color : Net Name= +3V3 Old Net Color=Default New Net Color=RGB(218, 36, 103)
+Change Net Color : Net Name= +5V/3V3 Old Net Color=Default New Net Color=Aqua
+Change Net Color : Net Name= +5V Old Net Color=Default New Net Color=RGB(253, 131, 0)
+Change Net Color : Net Name= GND Old Net Color=Default New Net Color=RGB(0, 0, 191)

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AD4/SDA Pin=J10-10
+Removed Pin From Net: NetName=AD4/SDA Pin=J13-6
+Removed Pin From Net: NetName=AD4/SDA Pin=U3-28
+Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Change Net Color : Old Net Color=RGB(253, 131, 0) New Net Color=Default
+Change Net Color : Old Net Color=Blue New Net Color=Default
+Added Pin To Net: NetName=AD5/SCI Pin=J10-10
+Added Pin To Net: NetName=AD5/SCI Pin=J13-6
+Added Pin To Net: NetName=AD5/SCI Pin=U3-28
+Added Net: Name=AD5/SCI
